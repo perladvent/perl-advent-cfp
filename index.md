@@ -6,6 +6,11 @@ layout: default
 
 The CFP is open until midnight on Friday September 30th EST.
 
+<!-- Call to Action Button -->
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://github.com/perladvent/Perl-Advent/issues/new?assignees=&labels=article&template=i-want-to-write-an-article.md&title=" style="background-color: #4CAF50; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; font-size: 16px;">Submit a proposal</a>
+</div>
+
 ## What's all this about then?
 
 As an advent calendar author you will write one entry on a module of your
@@ -44,6 +49,11 @@ so in the submission!
 
 We look forward to hearing from you!
 
+<!-- Call to Action Button -->
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://github.com/perladvent/Perl-Advent/issues/new?assignees=&labels=article&template=i-want-to-write-an-article.md&title=" style="background-color: #4CAF50; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; font-size: 16px;">Submit a proposal</a>
+</div>
+
 ### Timelines ###
 
 * 11:59 PM EST Friday September 30th 2024: Deadline for article proposal
@@ -64,6 +74,11 @@ We look forward to hearing from you!
 
 * 12:00 AM EST Thursday **December 1st 2024**: Advent begins.  Go live date.
 
+<!-- Call to Action Button -->
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://github.com/perladvent/Perl-Advent/issues/new?assignees=&labels=article&template=i-want-to-write-an-article.md&title=" style="background-color: #4CAF50; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; font-size: 16px;">Submit a proposal</a>
+</div>
+
 ### Guidelines on the Articles ###
 
 - The best way to see what we're after in an article is to take a look at
@@ -79,5 +94,10 @@ try to be entertaining in our articles.
 - Pictures, graphs, and other graphics are good and highly encouraged.  In the last few years we included animated gifs of terminal output, renders of spinning OpenGL snowflakes, SVG Christmas trees, Christmas cats and dogs from Imgur, Spotify playlists, a full interactive JavaScript map of the world showing off GeoIP location from Perl, and even Perl executing in the browser.  Go nuts!
 
 - Formatting is in POD with a custom header.  See [the source for previous years' articles](https://github.com/perladvent/Perl-Advent/tree/main/2022/articles) for examples.  You can use [`=for html`](https://github.com/perladvent/Perl-Advent/blame/main/2015/articles/2015-12-02.pod#L75) or even [`=for web_only` and `=for rss_only`](https://github.com/perladvent/Perl-Advent/blame/main/2015/articles/2015-12-01.pod#L7) if needed to add custom HTML to your POD.
+
+<!-- Call to Action Button -->
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://github.com/perladvent/Perl-Advent/issues/new?assignees=&labels=article&template=i-want-to-write-an-article.md&title=" style="background-color: #4CAF50; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; font-size: 16px;">Submit a proposal</a>
+</div>
 
 {% include sharing.html %}
