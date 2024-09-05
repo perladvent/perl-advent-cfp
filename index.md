@@ -4,7 +4,7 @@ layout: default
 
 ## You are cordially invited to write an article for the 2024 Perl Advent Calendar.
 
-The CFP is open until midnight on Friday September 30th EST.
+The CFP is open until midnight on Friday September 30th EDT.
 
 <!-- Call to Action Button -->
 <div style="text-align: center; margin: 20px 0;">
@@ -42,7 +42,7 @@ with their writing.
 In order to participate in the Perl Advent Calendar please [create an issue on
 GitHub](https://github.com/perladvent/Perl-Advent/issues/new?assignees=&labels=article&template=i-want-to-write-an-article.md&title=)
 to submit your chosen module and a brief description of your article (which need
-be no more than two or three sentences) by no later than **11:59 PM EST Friday
+be no more than two or three sentences) by no later than **11:59 PM EDT Friday
 September 30th 2024**.  If you don't have an idea for an article but would
 be open to some suggestions or coming up with an article idea later on, just say
 so in the submission!
@@ -56,13 +56,13 @@ We look forward to hearing from you!
 
 ### Timelines ###
 
-* 11:59 PM EST Friday September 30th 2024: Deadline for article proposal
+* 11:59 PM EDT Friday September 30th 2024: Deadline for article proposal
   submission.
 
-* 11:59 PM EST Saturday **October 1st 2024**: Authors of all CFP submissions will
+* 11:59 PM EDT Saturday **October 1st 2024**: Authors of all CFP submissions will
   be notified if their article has been accepted.
 
-* 11:59 PM EST Tuesday **November 1st 2024**: First draft of article submission
+* 11:59 PM EDT Tuesday **November 1st 2024**: First draft of article submission
   committed by author into Perl Advent Calendar Github repository.  This need
   not be 100% completed at this point, but at this stage the Perl Advent
   Calendar editorial team will start the editing process (correcting typos,
