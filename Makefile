@@ -5,6 +5,12 @@
 JEKYLL_PORT ?= 4000
 TS_PORT     ?= 8443
 
+# make runs recipes in a non-login shell that lacks rbenv's shims on PATH, so
+# `bundle` isn't found. Add the shims when rbenv is present (a no-op otherwise).
+ifneq ($(wildcard $(HOME)/.rbenv/shims),)
+export PATH := $(HOME)/.rbenv/shims:$(PATH)
+endif
+
 .PHONY: build serve serve-tailnet stop-tailnet clean
 
 ## build: generate the static site into _site/
