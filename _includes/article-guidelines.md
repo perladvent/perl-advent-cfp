@@ -8,8 +8,27 @@ Our variable names can be `$rudolph`, or `$frosty`, or `$mrhankey`.  Our article
 are often stories of problems fictional Christmas characters have.  In all, we
 try to be entertaining in our articles.
 
-- We like our articles to contain text and code interspersed, and if necessary a final script at the end with lots of comments.
+- We like our articles to reflect the author's own unique voice. If you'd like
+  to lean on an LLM to help with things like generating an image, whipping up
+  some sample code, proofreading your article, etc, please do so, but please
+  write the prose yourself. We want to hear **your voice**. Let your gift be
+  something you put your heart into, rather than your tokens.
 
-- Pictures, graphs, and other graphics are good and highly encouraged.  In the last few years we included animated gifs of terminal output, renders of spinning OpenGL snowflakes, SVG Christmas trees, Christmas cats and dogs from Imgur, Spotify playlists, a full interactive JavaScript map of the world showing off GeoIP location from Perl, and even Perl executing in the browser.  Go nuts!
+- We like our articles to contain text and code interspersed, and if necessary
+  a final script at the end with lots of comments.
 
-- Formatting is in POD with a custom header.  See [the source for previous years' articles](https://github.com/perladvent/Perl-Advent/tree/main/2025/articles) for examples.  You can use [`=for html`](https://github.com/perladvent/Perl-Advent/blame/main/2015/articles/2015-12-02.pod#L75) or even [`=for web_only` and `=for rss_only`](https://github.com/perladvent/Perl-Advent/blame/main/2015/articles/2015-12-01.pod#L7) if needed to add custom HTML to your POD.
+- Pictures, graphs, and other graphics are good and highly encouraged.  In the
+  last few years we included animated gifs of terminal output, renders of
+  spinning OpenGL snowflakes, SVG Christmas trees, Christmas cats and dogs from
+  Imgur, Spotify playlists, a full interactive JavaScript map of the world
+  showing off GeoIP location from Perl, and even Perl executing in the browser.
+  Go nuts!
+
+- Formatting is in POD with a custom header.  See [the source for previous
+  years'
+  articles](https://github.com/perladvent/Perl-Advent/tree/main/2025/articles)
+  for examples.  You can use [`=for
+  html`](https://github.com/perladvent/Perl-Advent/blame/main/2015/articles/2015-12-02.pod#L75)
+  or even [`=for web_only` and `=for
+  rss_only`](https://github.com/perladvent/Perl-Advent/blame/main/2015/articles/2015-12-01.pod#L7)
+  if needed to add custom HTML to your POD.
