@@ -21,8 +21,8 @@ on a given day of Advent (between the 1st and 24th of December 2026 inclusive).
 The Perl Advent Calendar welcomes diverse author submissions from all types of
 Perl programmers.  It is our firm belief that every Perl programmer, no matter
 how advanced or how novice, has a favorite Perl module they want to tell the
-world about.  The module that is the subject of the article need not be written
-by the article author, and more often than not this is not the case.
+world about.  You can write about your own module or someone else's.  Write
+about whatever gets you in the mindset of the season.
 
 The Perl Advent Calendar seeks to be an inclusive project.
 We encourage and sincerely welcome articles from authors of color,
